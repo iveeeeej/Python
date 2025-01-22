@@ -1,0 +1,5 @@
+print("Jevi D. Bantiad")
+print("BSIT-1A")
+print("IT121")
+print("Computer Programming 2")
+print("2nd Semester, 2023-2024")
